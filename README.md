@@ -6,6 +6,7 @@ This fork of Chosen has been converted to Sass and optimized for the default Twi
 
 The Harvest Team:
 
+- [Chosen](http://harvesthq.github.com/chosen/)
 - [Harvest](http://www.getharvest.com/)
 - [Patrick Filler](http://www.patrickfiller.com/)
 - [Matthew Lettini](http://matthewlettini.com/)
