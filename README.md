@@ -2,7 +2,7 @@
 
 This fork of Chosen has been converted to Sass and optimized for the default Twitter Bootstrap styles. Maintained and coverted by [@joeylomanto](http://www.twitter.com/joeylomanto).
 
-[Demo](http://chosen-sass-bootstrap.herokuapp.com/)
+View the working [Demo](http://chosen-sass-bootstrap.herokuapp.com/).
 
 ## Big thanks to the people who built these tools:
 
