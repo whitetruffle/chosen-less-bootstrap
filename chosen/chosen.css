@@ -4941,12 +4941,14 @@ a.badge:hover {
   text-decoration: none;
 }
 .chzn-container-single .chzn-single span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
   margin-right: 26px;
   display: block;
   overflow: hidden;
   white-space: nowrap;
 }
-@include text-overflow();
 .chzn-container-single .chzn-single abbr {
   display: block;
   position: absolute;
