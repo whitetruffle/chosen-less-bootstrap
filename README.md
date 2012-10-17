@@ -1,10 +1,9 @@
-# Chosen (for Sass and Twitter Bootstrap)
+# Chosen (for LESS and Twitter Bootstrap)
 
-This fork of Chosen has been converted to Sass and optimized for the default Twitter Bootstrap styles. Maintained and coverted by [@joeylomanto](http://www.twitter.com/joeylomanto).
+This fork of Chosen has been converted from LESS + Twitter Bootstrap.
+Sass-to-LESS converted by [@rajunov](http://www.twitter.com/bookmousey).
 
-View the working [Demo](http://chosen-sass-bootstrap.herokuapp.com/).
-
-## Big thanks to the people who built these tools:
+## This just rides on the coattails of better contributors:
 
 The Harvest Team:
 
@@ -24,6 +23,7 @@ John Long:
 - [Twitter Bootstrap Sass Conversion](https://github.com/jlong/sass-twitter-bootstrap)
 - [@johnwlong](http://www.twitter.com/johnwlong)
 
-## Contributing to Chosen (for Sass and Twitter Bootstrap)
+Joey Lomanto: 
 
-Contributions and pull requests are very welcome.
+- [Chosen Bootstrap Sass Conversion](http://chosen-sass-bootstrap.herokuapp.com/)
+- [@joeylomanto](http://www.twitter.com/joeylomanto)
