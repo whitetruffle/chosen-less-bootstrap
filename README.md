@@ -1,6 +1,6 @@
 # Chosen (for LESS and Twitter Bootstrap)
 
-This fork of Chosen has been converted from LESS + Twitter Bootstrap.
+This fork of Chosen has been adapted to LESS + Twitter Bootstrap.
 Sass-to-LESS converted by [@rajunov](http://www.twitter.com/bookmousey).
 
 ## This just rides on the coattails of better contributors:
